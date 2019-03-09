@@ -14,6 +14,36 @@
       "id": 3,
       "title": "Post Three",
       "body": "This is post three"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is post four",
+      "id": 4
+    },
+    {
+      "title": "Post Five",
+      "body": "This is post five",
+      "id": 5
+    },
+    {
+      "title": "Post Six",
+      "body": "This is post six",
+      "id": 6
+    },
+    {
+      "title": "asdsad",
+      "body": "dasd",
+      "id": 7
+    },
+    {
+      "title": "Post Seven",
+      "body": "This is post seven",
+      "id": 8
+    },
+    {
+      "title": "sadasd",
+      "body": "adsd",
+      "id": 9
     }
   ]
 }
